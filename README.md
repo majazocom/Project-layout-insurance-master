@@ -17,4 +17,4 @@ Länk till Figma-skiss finns [här](https://www.figma.com/file/ZYWkmQTW5XFMAHXuS
 
 Inlämning sker via Github och Learnpoint. Ladda upp ert projekt på Github (på en gruppmedlems Github-konto). Gå sedan in på Learnpoint och under innehåll finns det en inlämningsuppgift där ska ni ska posta er länk till gruppmedlemmens repo.
 
-Inlämning senast: **17/9 23:59**
+Inlämning senast: **14/9 23:59**
