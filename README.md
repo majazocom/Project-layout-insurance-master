@@ -15,6 +15,6 @@ Ni behöver **inte**:
 
 Länk till Figma-skiss finns [här](https://www.figma.com/file/ZYWkmQTW5XFMAHXuSAAOaqFQ/Insurance-grid?node-id=0%3A1)
 
-Inlämning sker via Learnpoint. Zippa ert projekt (filändelse .zip, inte .rar) och ladda upp det under inlämningen i Learnpoint. Klicka sedan på "Lämna in". Ni behöver bara lämna in en fil per grupp. Jag har koll på vem som är er gruppmedlem.
+Inlämning sker via Learnpoint. Zippa ert projekt (Exempel person1person2.zip) och ladda upp det under inlämningen i Learnpoint. Klicka sedan på "Lämna in". Ni behöver bara lämna in en fil per grupp. Jag har koll på vem som är er gruppmedlem.
 
 Inlämning senast: **13/9 23:59**
