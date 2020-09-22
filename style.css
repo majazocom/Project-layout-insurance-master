@@ -12,7 +12,16 @@ img {
     object-fit: cover;
     
 }
+<<<<<<< HEAD
 
 h1, h2, h3, p, a {
     font-family: "comic sans", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+=======
+header {
+    background: darkslategray;
+    width: 100%;
+    min-height: 100px;
+    color: white;
+    text-align: center;
+>>>>>>> 3dc2a2c1857b80ae05441cf1df9b58f00e913107
 }
