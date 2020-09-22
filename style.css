@@ -2,8 +2,9 @@ body {
     background-color: lightslategrey;
 }
 .wrapper {
-    max-width: 1000px;
+    width: 60%;
     margin: 0 auto;
+    background-color: #ffb3ee;
 }
 img {
     max-width: 100%;
@@ -11,6 +12,11 @@ img {
     object-fit: cover;
     
 }
+
+h1, h2, h3, p, a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 header {
     background: darkslategray;
     width: 100%;
