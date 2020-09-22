@@ -2,8 +2,9 @@ body {
     background-color: lightslategrey;
 }
 .wrapper {
-    max-width: 1000px;
+    width: 60%;
     margin: 0 auto;
+    background-color: #ffb3ee;
 }
 img {
     max-width: 100%;
@@ -12,7 +13,8 @@ img {
     
 }
 
-.nav{
+
+.nav {
     list-style: none;
     display: flex;
     flex-direction: row;
