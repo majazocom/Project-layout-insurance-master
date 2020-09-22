@@ -11,3 +11,8 @@ img {
     object-fit: cover;
     
 }
+header {
+    background: darkslategray;
+    width: 100%;
+    min-height: 100px;
+}
